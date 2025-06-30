@@ -24,7 +24,7 @@ This project is a Seller Management System developed in Java to practice and dem
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/Tharushi111/Seller-Management-System
 
 2.Open the project in your preferred Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
 
