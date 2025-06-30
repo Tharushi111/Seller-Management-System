@@ -26,7 +26,7 @@ This project is a Seller Management System developed in Java to practice and dem
    ```bash
    https://github.com/Tharushi111/Seller-Management-System
 
-2.Open the project in your preferred Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
+2. Open the project in your preferred Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
 
 3. Make sure you have JDK installed (Java 8 or higher).
 
