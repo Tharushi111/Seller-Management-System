@@ -63,11 +63,11 @@ This page lists all sellers in a table with options to add, edit, and delete sel
 
 5. Configure Database in DBConnection.java
 
-   - Set your MySQL username and password in:
+   - Set your MySQL username and password:
 
      ```bash
        private static final String JDBC_USERNAME = "root";
-       private static final String JDBC_PASSWORD = "";
+       private static final String JDBC_PASSWORD = "your_password";
 
 
 6. Run the project.
