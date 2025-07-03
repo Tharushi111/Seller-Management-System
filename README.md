@@ -36,9 +36,9 @@ This project is a Seller Management System developed in Java to practice and dem
 
 ## How to Use 📝
 
-- Navigate to the admin dashboard home page to view all sellers in a table.
+- Navigate to the Admin Dashboard, Seller Management page to view all sellers in a table.
 
-- Click the Add Seller button to open a popup form and input new seller details.
+- Click the Add Seller button to open a new seller form and input new seller details.
 
 - Use the Edit buttons next to each seller entry to update information.
 
