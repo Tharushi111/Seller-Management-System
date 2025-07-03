@@ -10,6 +10,21 @@ This project is a Seller Management System developed in Java to practice and dem
 
 ---
 
+### Admin Dashboard
+
+Here is the main admin dashboard UI where you can see key stats and navigation.
+
+![Admin Dashboard](assets/adminDashboard.png)
+
+---
+
+### Seller Management
+
+This page lists all sellers in a table with options to add, edit, and delete sellers.
+
+![Seller Management](assets/sellers.png)
+
+
 ## Features ⭐
 
 - 🛠️ Admin dashboard with home page  
