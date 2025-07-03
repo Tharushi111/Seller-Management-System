@@ -31,12 +31,6 @@
     <!-- Header -->
     <header class="bg-white shadow px-6 py-4 flex justify-between items-center sticky top-0 z-10">
       <h1 class="text-xl font-semibold">Welcome, <span class="text-blue-600">Admin</span></h1>
-      <div class="flex items-center gap-4">
-        <button class="text-red-600 hover:text-red-700 flex items-center gap-2">
-          <i class="fas fa-sign-out-alt"></i> Logout
-        </button>
-        <img src="./images/admin.jpg" alt="Profile" class="w-10 h-10 rounded-full">
-      </div>
     </header>
 
     <!-- Page content -->
