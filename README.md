@@ -84,15 +84,15 @@ This page lists all sellers in a table with options to add, edit, and delete sel
 
 ##  Technologies Used 💻
 
-- Java (JDK 8+) — Core programming language
+| Technology          | Purpose                   |
+| ------------------- | ------------------------- |
+| Java (JDK 8+)       | Core programming language |
+| JSP / Servlet       | UI & backend logic        |
+| JDBC                | Database connection       |
+| MySQL               | Backend database          |
+| HTML / Tailwind CSS | Frontend layout & styling |
+| Eclipse IDE         | Development Environment   |
 
-- Java Servlet / JSP — For server-side logic and UI 
-
-- HTML & CSS — Frontend layout and styling
-
-- JDBC — Database connectivity for CRUD operations
-
-- IDE: Eclipse
 
 ##  Purpose 🎯
 
