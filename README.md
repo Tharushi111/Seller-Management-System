@@ -10,7 +10,7 @@ This project is a Seller Management System developed in Java to practice and dem
 
 ---
 
-### Admin Dashboard
+### 🔷 Admin Dashboard
 
 Here is the main admin dashboard UI where you can see key stats and navigation.
 
@@ -18,7 +18,7 @@ Here is the main admin dashboard UI where you can see key stats and navigation.
 
 ---
 
-### Seller Management
+### 🔷 Seller Management
 
 This page lists all sellers in a table with options to add, edit, and delete sellers.
 
