@@ -44,10 +44,31 @@ This page lists all sellers in a table with options to add, edit, and delete sel
 2. Open the project in your preferred Java IDE (Eclipse, IntelliJ IDEA, NetBeans).
 
 3. Make sure you have JDK installed (Java 8 or higher).
+4. Set up MySQL Database
 
-4. Build and run the project.
+ - Create a database named: sellermanagementsystem
 
-5. Access the admin dashboard and manage sellers through the provided UI.
+ - Create a table named sellers with the following schema:
+   
+     CREATE TABLE sellers (
+     id INT AUTO_INCREMENT PRIMARY KEY,
+     name VARCHAR(100),
+     email VARCHAR(100),
+     phone VARCHAR(20),
+     status VARCHAR(20),
+     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+   );
+
+5. Configure Database in DBConnection.java
+
+ - Set your MySQL username and password in:
+   
+   private static final String JDBC_USERNAME = "root";
+   private static final String JDBC_PASSWORD = "";
+
+
+6. Run the project.
 
 ## How to Use 📝
 
